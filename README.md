@@ -4,7 +4,7 @@
 <h3 align="center">A passionate perl hacker from Sweden</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=perl,linux,vim,mysql,bash,git,gitlab,github,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=vim,perl,linux,mysql,docker,bash,git,gitlab,github,html,css,js,vim" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/trapd00r](https://github.com/trapd00r)
 
-- 📝 I regularly write articles on [https://japh.se](https://japh.se)
+- 📝 I used to write stuff on [https://japh.se](https://japh.se) but I'm busy building my homelab at the moment
 
 - 📫 Connect on irc - **japh@irc.libera.chat**
 
