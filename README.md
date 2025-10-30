@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/trapd00r](https://github.com/trapd00r)
 
-- 📝 I used to write stuff on [https://japh.se](https://japh.se) but I'm busy building my homelab at the moment
+- 📝 I write something on [https://japh.se](https://japh.se) once a year or so
 
 - 📫 Connect on irc - **japh@irc.libera.chat**
 
