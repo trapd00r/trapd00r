@@ -26,5 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=trapd00r&show_icons=true&locale=en&count_private=true&theme=dark&hide_title=1&include_all_commits=1" alt="trapd00r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trapd00r&theme=dark" alt="trapd00r" /></p>
 
